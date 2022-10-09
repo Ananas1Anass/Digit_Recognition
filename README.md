@@ -1,2 +1,2 @@
-# Digit_Recognition
-Digit Recognition using CNN
+# DATASET :
+MNIST database
